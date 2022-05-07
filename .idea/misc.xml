@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Documents/Ciclo VII 2022/Moviles/LAB 2/LAB-2/app/src/main/res/layout/activity_maps.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/DELL/Documents/Ciclo VII 2022/Moviles/LAB 2/LAB-2/app/src/main/res/layout/activity_principal.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>

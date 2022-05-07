@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">LAB-2</string>
+    <string name="app_name">LAB2</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
